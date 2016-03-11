@@ -1,8 +1,8 @@
 ## Ed Kerry
 
-Previously a project manager and fundraiser, I have embraced a long-term desire to become a web developer. I am adept at evaluating large-scale problems, researching options, and implementing incremental steps to reach final solutions.
+Once a project manager and fundraiser, I have embraced a long-term desire to become a web developer. I am adept at evaluating large-scale problems, researching options, and implementing incremental steps to reach final solutions.
 
-Previously I have helped over 600 vulnerable people learn life-saving skills, raised over £750,000 to transform the lives of people with learning disabilities, and delivered IT Security reports to cabinet ministers. These were not all the same job.
+I have helped over 600 vulnerable people learn life-saving skills, raised over £750,000 to transform the lives of people with learning disabilities, and delivered IT Security reports to cabinet ministers. These were not all the same job.
 
 Now I am seeking my first role in an exciting new career. I want to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
 
