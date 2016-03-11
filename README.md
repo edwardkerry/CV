@@ -1,4 +1,4 @@
-## Ed Kerry
+# Ed Kerry
 
 Previously a project manager and fundraiser, I have embraced a long-term desire to become a web developer. I am adept at evaluating large-scale problems, researching options, and implementing incremental steps to reach final solutions.
 
