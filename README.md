@@ -15,7 +15,7 @@ I greatly enjoy exploring potential solutions to problems, discovering the simpl
 - I am a logical, calm thinker. When multiple, potentially interesting, options are available I am able to assess their suitability of solving the initial problem. This lets me choose the best tools for the job.
 - I am persistent when facing adversity. Charitable and governmental project planning naturally involves limited resources, set-backs and uncertainty. I have found this mind-set very applicable to code.
 - When facing a new problem, my first step is to research. In the past this has involved reading research papers or running focus groups. Recently I have become proficient with Googling specific technical issues.
-- Solving a problem, especially if I am able to help someone else on the way, can be even more satisfying than everything working right first time!
+- Solving a problem, especially if I am able to help someone else on the way, can be even more satisfying than everything working right first time! I am a regular volunteer coach at CodeBar, helping other people take their first steps into this exciting world.
 
 #### Clear, clean code written the right way
 
@@ -24,7 +24,7 @@ Makers Academy has taught me the very best practices in modern software developm
 - Coding is not a solitary activity for me, but a team effort. I am a great fan of pair programming, and at Makers Academy I paired every day. This was a great opportunity for shared learning and teamwork.
 - I am very excited to extend my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
 - At Makers, development is seen as a true craft. Making it work is just the first step, and I am committed to refactoring to allow other developers understand and extend my code without resorting to modification.
-- Most crucially, I have a great curiosity and passion for code. I enjoy independent and exploratory learning, experimenting with new ideas so I can expand my skills.
+- Most crucially, I have a great curiosity and passion for code. I enjoy independent and exploratory learning, experimenting with new ideas so I can expand my skills. 
 
 #### Code Examples
 
