@@ -1,34 +1,36 @@
 # Ed Kerry
 
-I am currently an engineer at Notonthehighstreet, working primarily with both a monolithic Ruby on Rails application and green-field React JS microservices. I work primarily on the consumer-facing aspects of the website, from initial landing pages through to making a purchase.
+I am currently a software engineer at Fuse Universal, working with a monolithic Ruby on Rails application. In addition to providing ongoing improvements for web users, through a Marionette and Backbone frontend, I work closely with mobile developers to provide API support for iOS and Android applications. Previously I have worked with a mix of existing Rails applications and green-field React JS microservices. At Notonthehighstreet.com I worked primarily on the consumer-facing aspects of the website, from initial landing pages through to making a purchase.
 
-I want to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
+I enjoy being challenged by and learning from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
 
 #### Development
 
-My initial training was with Ruby, using Rails as the web framework. More recently I have developed my skills with modern JavaScript, using ES6 with Babel as a transpiler, and Webpack to bundle code for production. Recently I have worked on two React applications, using Redux for state management.
+My initial training was with Ruby, using Rails as the web framework. I have also been able to develop skills with modern JavaScript, using ES6 with Babel as a transpiler, and Webpack to bundle code for production. Recently I have worked on two React applications, using Redux for state management.
+
+I am familiar with API development, currently using GrapeAPI, and have experience with Amazon's SQS/SNS messaging systems.  
 
 #### Testing
 
-I start each feature by talking through requirements and success criteria with Quality Assurance and Product Owners. When developing I always follow BDD and TDD. Tools used include Cucumber, Capybara, Nightwatch, Rspec, Jasmine, Mocha and Enzyme.
+I start each feature by talking through requirements and success criteria with Quality Assurance and Product Owners. When developing I always follow BDD and TDD. I use tools including Cucumber, Capybara, Jest, Nightwatch, Rspec, Jasmine, Mocha and Enzyme.
 
 #### Source control
 
-Conscientious in making regular, clear commits and well-document pull requests. I am proficient with Git and Github.
+Conscientious in making regular, clear commits and well-document pull requests. I am proficient with Git and Github. I enjoy the process of code review, finding it an excellent way of considering problems from another viewpoint and sharing knowledge.
 
 #### Continuous Integration
 
-Fast, safe development depends on quick feedback, best achieved by running the test suite on each push. I have used Jenkins, Circle and Travis for CI/CD.
+Fast, safe development depends on quick feedback, best achieved by running the test suite on each push. I have used Jenkins, Circle and Travis for CI/CD. I want my code to help the end user as soon as possible, and to be improved from there!
 
 #### Clear, clean code written the right way
 
-My training at Makers Academy has stood in good stead. I am more interested in developing tested, maintainable and valuable systems than writing complex, 'smart' and obscure code.  
+My training at Makers Academy has stood me in good stead to follow best practice. I am more interested in developing tested, maintainable and valuable systems than writing complex, 'smart' and obscure code.  
 
 #### Work flow
 
 I am a strong advocate for pair programming. It offers mutually beneficial mentoring to both junior and senior developers, ensures code quality and helps share domain knowledge throughout the team.
 
-Understanding the problem to be solved, and how to measure success, is very important to me. I aim to keep the end user in mind at all times, and seek to establish clear metrics in order to continuously improve their experience. MVPs and
+Understanding the problem to be solved, and how to measure success, is very important to me. I aim to keep the end user in mind at all times, and seek to establish clear metrics in order to continuously improve their experience.
 
 I enjoy the cadence of agile development, with regular ceremonies including standups, refinement and retros adding unity and cohesion to the team.
 
@@ -82,7 +84,7 @@ With over five years experience of project management, I am able to keep in mind
 #### University of Durham (2003 to 2006)
 
 - BA (hons) Archaeology and Anthropology: 2:1
-- Anthropology - people and the lives they live
+- Anthropology - people and how they live their lives
 - Archaeology - old people and the old things they used
 - Biological Anthropology - how old animals evolved into current people  
 
@@ -93,8 +95,12 @@ With over five years experience of project management, I am able to keep in mind
 - British Red Cross First Aid Trainer
 - Once upon a time I came first in a Quake III Arena tournament, winning a cruise to Spain.
 
-## Past Employment
+## Employment
 
+**Fuse Universal.com** (2018 to present)    
+*Software Engineer*  
+**Notonthehighstreet.com** (2016 to 2018)    
+*Associate Software Engineer*  
 **Action on Addiction** (2014 to 2015)    
 *Trust Fundraiser*  
 **Inland Revenue, New Zealand** (2013 to 2014)   
